@@ -1,0 +1,3 @@
+C:\Users\ashleefr\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\Begin_projects.dir/objects.a
+C:\Users\ashleefr\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\mingw\bin\ar.exe qc CMakeFiles\Begin_projects.dir/objects.a @CMakeFiles\Begin_projects.dir\objects1.rsp
+C:\Users\ashleefr\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Begin_projects.dir/objects.a -Wl,--no-whole-archive -o Begin_projects.exe -Wl,--out-implib,libBegin_projects.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Begin_projects.dir\linklibs.rsp

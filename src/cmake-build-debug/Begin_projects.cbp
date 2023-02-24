@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Begin_projects"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Begin_projects">
+				<Option output="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Begin_projects.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 Begin_projects"/>
+					<CompileFile command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Begin_projects/fast">
+				<Option output="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Begin_projects.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 Begin_projects/fast"/>
+					<CompileFile command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/ashleefr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_memchr.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_memcmp.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_memcpy.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_memmove.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_memset.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strcat.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strchr.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strcmp.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strcpy.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strcspn.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strlen.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strncat.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strncmp.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strncpy.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strpbrk.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strrchr.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strspn.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/s21_strstr.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/functions/work_string.c">
+			<Option target="Begin_projects"/>
+		</Unit>
+		<Unit filename="C:/Users/ashleefr/Documents/DockerDirectory/C2_s21_stringplus-0/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
